@@ -1,5 +1,5 @@
 import React from "react";
-import { background, Box } from "@chakra-ui/react";
+import { Box } from "@chakra-ui/react";
 import Select from "react-select";
 
 interface ISelect {
@@ -32,7 +32,7 @@ const SelectComponent: React.FC<ISelect> = ({ options, onChange }) => {
   };
 
   return (
-    <Box w="20rem" mb=".8rem">
+    <Box w="20rem">
       <Select
         name="select house"
         isClearable
