@@ -4,7 +4,7 @@ import Toggle from "../components/toggle";
 function MyApp({ Component, pageProps }) {
   return (
     <ChakraProvider>
-      <HStack
+      {/* <HStack
         w="full"
         borderBottomWidth="1px"
         mb="1rem"
@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
         justifyContent="flex-end"
       >
         <Toggle />
-      </HStack>
+      </HStack> */}
       <Component {...pageProps} />
     </ChakraProvider>
   );
