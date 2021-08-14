@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto criado com o objetivo de estudar e aplicar pagição e filtro, consumindo a API dos personagens de Harry Potter para alcançar essa finalidade.
+Projeto criado com o objetivo de estudar e aplicar pagição, filtro e search, consumindo a API dos personagens de Harry Potter para alcançar essa finalidade.
 
 ## 🚀 Como executar
 
